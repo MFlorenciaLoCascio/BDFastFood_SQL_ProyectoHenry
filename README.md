@@ -1,8 +1,8 @@
-# **Este README describe los pasos necesarios para que pueda instalar SQL Server en su sistema y abrir los archivos de Base de Datos SQL Server del Proyecto disponible:**
+# **Este README describe los pasos necesarios para que pueda instalar SQL Server en su sistema y abrir los archivos de Base de Datos SQL Server del Proyecto disponible:** 🌐
 
-## 1. **Instalación de SQL Server para abrir los archivos del proyecto GitHub**
+## 1.  **Instalación de SQL Server para abrir los archivos del proyecto GitHub**  💻
 
-### **Descarga de SQL Server**
+### **Descarga de SQL Server** 
 
 ##### [Descargue la versión gratuita](https://www.microsoft.com/en-us/sql-server/sql-server-downloads "descargue la versión gratuita") de SQL Server y selecciona la edición Express desde el sitio web de Microsoft:
 
@@ -10,15 +10,15 @@ https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 
 
 ### **Pasos de Instalación**
-**- Ejecuta el instalador:** Una vez descargado el instalador, ejecútalo en tu sistema. Sigue las instrucciones en pantalla para completar la instalación.
+**👉 Ejecuta el instalador:** Una vez descargado el instalador, ejecútalo en tu sistema. Sigue las instrucciones en pantalla para completar la instalación.
 
-**- Selecciona las características de instalación:** Durante el proceso de instalación, se te pedirá que selecciones las características que deseas instalar. Para abrir archivos de base de datos SQL Server, asegúrate de seleccionar la opción "Motor de base de datos de SQL Server".
+**👉 Selecciona las características de instalación:** Durante el proceso de instalación, se te pedirá que selecciones las características que deseas instalar. Para abrir archivos de base de datos SQL Server, asegúrate de seleccionar la opción "Motor de base de datos de SQL Server".
 
-**- Configura la instancia de SQL Server:** Se le pedirá que configures una instancia de SQL Server. La instancia es el nombre de la instalación de SQL Server en tu sistema. Puedes elegir un nombre predeterminado o especificar uno personalizado.
+**👉 Configura la instancia de SQL Server:** Se le pedirá que configures una instancia de SQL Server. La instancia es el nombre de la instalación de SQL Server en tu sistema. Puedes elegir un nombre predeterminado o especificar uno personalizado.
 
-**- Establece los modos de autenticación:** SQL Server ofrece dos modos de autenticación: Autenticación de Windows y autenticación mixta. La autenticación de Windows utiliza las cuentas de usuario del sistema para acceder a SQL Server, mientras que la autenticación mixta permite utilizar cuentas de usuario y contraseñas específicas de SQL Server. Selecciona el modo de autenticación que prefieras.
+**👉 Establece los modos de autenticación:** SQL Server ofrece dos modos de autenticación: Autenticación de Windows y autenticación mixta. La autenticación de Windows utiliza las cuentas de usuario del sistema para acceder a SQL Server, mientras que la autenticación mixta permite utilizar cuentas de usuario y contraseñas específicas de SQL Server. Selecciona el modo de autenticación que prefieras.
 
-**- Completa la instalación:** Sigue las instrucciones restantes en pantalla para completar la instalación de SQL Server.
+**👉 Completa la instalación:** Sigue las instrucciones restantes en pantalla para completar la instalación de SQL Server.
 
 ### **Verificación de la instalación:**
 Una vez finalizada la instalación, puedes verificar si SQL Server se está ejecutando correctamente utilizando el Administrador de servicios de Windows.
@@ -33,7 +33,7 @@ Una vez finalizada la instalación, puedes verificar si SQL Server se está ejec
 
 5. Haz clic derecho en la base de datos que deseas abrir y selecciona "Abrir".
 
-### **Debe abrir los archivos en el siguiente orden:**
+### **Debe abrir los archivos en el siguiente orden:** 🗂️
 
 1. [DA_Lo_Cascio_Maria_Florencia_avance1PI ](https://github.com/MFlorenciaLoCascio/BDFastFood_SQL_ProyectoHenry/blob/main/DA_Lo_Cascio_Maria_Florencia_avance1PI.sql "DA_Lo_Cascio_Maria_Florencia_avance1PI ") 
 _(Lenguaje DDL - Crear Base de Datos, Tablas y Generar relaciones PK-FK) _
@@ -55,13 +55,12 @@ _(Lenguaje DML - Consultas Finales)_
 
 **Diagrama Entidad-Relación generado en Draw.io:** [DER_FastFood_Draw.io.jpg](https://github.com/MFlorenciaLoCascio/BDFastFood_SQL_ProyectoHenry/blob/main/DER_FastFood_Draw.io.jpg "DER_FastFood_Draw.io.jpg")
 
-![DER DRAW.IO](https://github.com/MFlorenciaLoCascio/BDFastFood_SQL_ProyectoHenry/blob/main/DER_FastFood_Draw.io.jpg "DER_FastFood_Draw.io.jpg)
 
 ## 3. **Informe del Proyecto:**
 
 [Informe_FastFood_BD_Lo_Cascio_Maria_Florencia.pdf](https://github.com/MFlorenciaLoCascio/BDFastFood_SQL_ProyectoHenry/blob/main/Informe_FastFood_BD_Lo_Cascio_Maria_Florencia.pdf "Informe_FastFood_BD_Lo_Cascio_Maria_Florencia.pdf")
 
-## 4. **Herramientas utilizadas:**
+## 4. **Herramientas utilizadas:** 
 
 - **SQL Server:** Sistema de gestión de bases de datos relacional para almacenar, administrar y analizar datos de forma segura y eficiente.
 
@@ -76,5 +75,5 @@ DML (Data Manipulation Language) para insertar, consultar, actualizar y eliminar
 - **Google Docs:** Plataforma online para la creación y edición colaborativa de documentos, utilizada para la elaboración del informe final del proyecto.
 
 
-##### Linkedin: https://www.linkedin.com/in/maria-florencia-lo-cascio
-##### Email: florlocascio5@gmail.com 
+##### 🔗 Linkedin: https://www.linkedin.com/in/maria-florencia-lo-cascio 
+##### 📧 Email: florlocascio5@gmail.com 
