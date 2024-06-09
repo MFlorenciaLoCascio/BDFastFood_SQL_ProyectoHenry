@@ -1,4 +1,4 @@
-# **Este README describe los pasos necesarios para que pueda instalar SQL Server en su sistema y abrir los archivos de Base de Datos SQL Server del Proyecto disponible:** 🌐
+# **Este README describe los pasos necesarios para que pueda instalar SQL Server en su sistema y abrir los archivos de Base de Datos SQL Server del Proyecto disponible. Así como también acceder al informe y herramientas utilizadas** 🌐
 
 ## 1.  **Instalación de SQL Server para abrir los archivos del proyecto GitHub**  💻
 
