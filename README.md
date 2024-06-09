@@ -58,6 +58,8 @@ _(Lenguaje DML - Consultas Finales)_
 
 ## 3. **Informe del Proyecto:**
 
+Aquí encontrará el objetivo del proyecto y los pasos realizados:
+
 [Informe_FastFood_BD_Lo_Cascio_Maria_Florencia.pdf](https://github.com/MFlorenciaLoCascio/BDFastFood_SQL_ProyectoHenry/blob/main/Informe_FastFood_BD_Lo_Cascio_Maria_Florencia.pdf "Informe_FastFood_BD_Lo_Cascio_Maria_Florencia.pdf")
 
 ## 4. **Herramientas utilizadas:** 
@@ -73,7 +75,3 @@ DML (Data Manipulation Language) para insertar, consultar, actualizar y eliminar
 - **Draw.io:** Herramienta online para la creación de diagramas, utilizada para elaborar el diagrama entidad-relación (DER) del proyecto.
 
 - **Google Docs:** Plataforma online para la creación y edición colaborativa de documentos, utilizada para la elaboración del informe final del proyecto.
-
-
-##### 🔗 Linkedin: https://www.linkedin.com/in/maria-florencia-lo-cascio 
-##### 📧 Email: florlocascio5@gmail.com 
