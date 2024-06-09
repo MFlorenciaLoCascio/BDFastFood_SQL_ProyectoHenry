@@ -2,14 +2,14 @@
 
 ## 1.  **Instalación de SQL Server para abrir los archivos del proyecto GitHub**  💻
 
-### **Descarga de SQL Server** 
+### **- Descarga de SQL Server** 
 
 ##### [Descargue la versión gratuita](https://www.microsoft.com/en-us/sql-server/sql-server-downloads "descargue la versión gratuita") de SQL Server y selecciona la edición Express desde el sitio web de Microsoft:
 
 https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 
 
-### **Pasos de Instalación**
+### **- Pasos de Instalación**
 **👉 Ejecuta el instalador:** Una vez descargado el instalador, ejecútalo en tu sistema. Sigue las instrucciones en pantalla para completar la instalación.
 
 **👉 Selecciona las características de instalación:** Durante el proceso de instalación, se te pedirá que selecciones las características que deseas instalar. Para abrir archivos de base de datos SQL Server, asegúrate de seleccionar la opción "Motor de base de datos de SQL Server".
@@ -20,7 +20,7 @@ https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 
 **👉 Completa la instalación:** Sigue las instrucciones restantes en pantalla para completar la instalación de SQL Server.
 
-### **Verificación de la instalación:**
+### **- Verificación de la instalación:**
 Una vez finalizada la instalación, puedes verificar si SQL Server se está ejecutando correctamente utilizando el Administrador de servicios de Windows.
 
 1.  Abre el Administrador de servicios de Windows (presiona Windows + R, escribe "services.msc" y presiona Entrar).
