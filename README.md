@@ -1,21 +1,21 @@
-#**Creación y Análisis de BasedeDatos“FASTFOOD”** 🌐
+# **Creación y Análisis de BasedeDatos“FASTFOOD”** 🌐
 __Fast Food And Breakfast__ es un popular local de comida rápida donde puedes encontrar distintas opciones en el menú, desde hamburguesas ypizzas hasta una deliciosas opciones para el desayuno y cafetería”. 🍔🍕🍩
 __
 
-##__Objetivo__: fortalecer la toma de decisiones estratégicas para el local de comida rápida "Fast Food And Breakfast" a través del diseño, implementación y análisis de una base de datos que almacene y organice de manera eficiente la información relevante del negocio. 📊
+## 🎯__Objetivo__: fortalecer la toma de decisiones estratégicas para el local de comida rápida "Fast Food And Breakfast" a través del diseño, implementación y análisis de una base de datos que almacene y organice de manera eficiente la información relevante del negocio. 📊
 __
 
-##💻**Instalación de SQL Server para abrir los archivos del proyecto GitHub**  
+## 💻**Instalación de SQL Server para abrir los archivos del proyecto GitHub**  
 
-####**- Descarga de SQL Server** 
+#### **- Descarga de SQL Server** 
 
 #####[Link de Descarga y Pasos de Instalación](https://learn.microsoft.com/es-es/sql/database-engine/install-windows/install-sql-server?view=sql-server-ver16) 
 __
 
-##**Desarrollo del Proyecto**
-### **Debe abrir los archivos en el siguiente orden, para poder visualizar las querys del desarrollo** 🗂️
+## 🗂️**Desarrollo del Proyecto**
+### **Debe abrir los archivos en el siguiente orden, para poder visualizar las querys del desarrollo**
 
-####1. Crear Base de Datos, Tablas y Generar relaciones PK-FK / _Lenguaje DDL_
+#### 1. Crear Base de Datos, Tablas y Generar relaciones PK-FK / _Lenguaje DDL_
 
 👉 [DA_Lo_Cascio_Maria_Florencia_avance1PI ](https://github.com/MFlorenciaLoCascio/BDFastFood_SQL_ProyectoHenry/blob/main/DA_Lo_Cascio_Maria_Florencia_avance1PI.sql "DA_Lo_Cascio_Maria_Florencia_avance1PI ") 
 
