@@ -1,4 +1,4 @@
-# **Creación y Análisis de Base de Datos “FASTFOOD”** 🌐
+# 🌐 **Creación y Análisis de Base de Datos “FASTFOOD”** 
 __Fast Food And Breakfast__ es un popular local de comida rápida donde puedes encontrar distintas opciones en el menú, desde hamburguesas ypizzas hasta una deliciosas opciones para el desayuno y cafetería”. 🍔🍕🍩
 
 ## 🎯Objetivo: 
@@ -63,7 +63,7 @@ Representa las relaciones entre entidades de la base de datos.
 ## 📝 Informe: 
 Aquí puede encontrar información más a detalle sobre el proyecto:
 
-[Informe_FastFood_BD_Lo_Cascio_Maria_Florencia.pdf](https://github.com/MFlorenciaLoCascio/BDFastFood_SQL_ProyectoHenry/blob/main/Informe_FastFood_BD_Lo_Cascio_Maria_Florencia.pdf "Informe_FastFood_BD_Lo_Cascio_Maria_Florencia.pdf")
+[Informe FastFood](https://github.com/MFlorenciaLoCascio/BDFastFood_SQL_ProyectoHenry/blob/main/Informe_FastFood_BD_Lo_Cascio_Maria_Florencia.pdf "Informe_FastFood_BD_Lo_Cascio_Maria_Florencia.pdf")
 
 
 ## ⚙️ Herramientas utilizadas:
