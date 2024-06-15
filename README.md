@@ -10,7 +10,7 @@ Fortalecer la toma de decisiones estratégicas para el local de comida rápida "
 
 #### **- Descarga de SQL Server** 
 
-#####[Link de Descarga y Pasos de Instalación](https://learn.microsoft.com/es-es/sql/database-engine/install-windows/install-sql-server?view=sql-server-ver16) 
+##### [Link de Descarga y Pasos de Instalación](https://learn.microsoft.com/es-es/sql/database-engine/install-windows/install-sql-server?view=sql-server-ver16) 
 
 
 ## 🗂️ Desarrollo del Proyecto
