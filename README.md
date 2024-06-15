@@ -12,10 +12,11 @@ ___
 #### **- Descarga de SQL Server** 
 
 #####[Link de Descarga y Pasos de Instalación](https://learn.microsoft.com/es-es/sql/database-engine/install-windows/install-sql-server?view=sql-server-ver16) 
-__
 
-## 🗂️**Desarrollo del Proyecto**
-### **Debe abrir los archivos en el siguiente orden, para poder visualizar las querys del desarrollo**
+___
+
+## 🗂️ Desarrollo del Proyecto
+### Debe abrir los archivos en el siguiente orden, para poder visualizar las querys del desarrollo
 
 #### 1. Crear Base de Datos, Tablas y Generar relaciones PK-FK / _Lenguaje DDL_
 
@@ -38,15 +39,17 @@ __
 #### 5. Consultas Finales / _Lenguaje DML_
 
 👉 [DA_Lo_Cascio_Maria_Florencia_avance_Consultas_Avanzadas_PI.sql](https://github.com/MFlorenciaLoCascio/BDFastFood_SQL_ProyectoHenry/blob/main/DA_Lo_Cascio_Maria_Florencia_avance_Consultas_Avanzadas_PI.sql "DA_Lo_Cascio_Maria_Florencia_avance_Consultas_Avanzadas_PI.sql")
-__
 
-## **Diagrama Entidad-Relación (DER)** 📃
+___
+
+## Diagrama Entidad-Relación (DER) 📃
 Representa las relaciones entre entidades de la base de datos. 
 
 **Diagrama Entidad-Relación generado en SQL:**  [DER_FastFood_SQL.png](https://github.com/MFlorenciaLoCascio/BDFastFood_SQL_ProyectoHenry/blob/main/DER_FastFood_SQL.png "DER_FastFood_SQL.png")
 
 **Diagrama Entidad-Relación generado en Draw.io:** [DER_FastFood_Draw.io.jpg](https://github.com/MFlorenciaLoCascio/BDFastFood_SQL_ProyectoHenry/blob/main/DER_FastFood_Draw.io.jpg "DER_FastFood_Draw.io.jpg")
-__
+
+___
 
 ## 📊 Insights:
 
