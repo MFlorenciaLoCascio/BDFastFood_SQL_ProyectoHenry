@@ -6,9 +6,7 @@ __Fast Food And Breakfast__ es un popular local de comida rápida donde puedes e
 Fortalecer la toma de decisiones estratégicas para el local de comida rápida "Fast Food And Breakfast" a través del diseño, implementación y análisis de una base de datos que almacene y organice de manera eficiente la información relevante del negocio. 📊
 
 
-## 💻**Instalación de SQL Server para abrir los archivos del proyecto GitHub**  
-
-#### **- Descarga de SQL Server** 
+## 💻**Descarga e Instalación de SQL Server para abrir los archivos del proyecto**  
 
 ##### [Link de Descarga y Pasos de Instalación](https://learn.microsoft.com/es-es/sql/database-engine/install-windows/install-sql-server?view=sql-server-ver16) 
 
