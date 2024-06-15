@@ -1,4 +1,4 @@
-# **Creación y Análisis de BasedeDatos “FASTFOOD”** 🌐
+# **Creación y Análisis de Base de Datos “FASTFOOD”** 🌐
 __Fast Food And Breakfast__ es un popular local de comida rápida donde puedes encontrar distintas opciones en el menú, desde hamburguesas ypizzas hasta una deliciosas opciones para el desayuno y cafetería”. 🍔🍕🍩
 
 ## 🎯Objetivo: 
