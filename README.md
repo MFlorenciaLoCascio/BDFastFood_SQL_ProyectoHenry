@@ -1,11 +1,10 @@
 # **Creación y Análisis de BasedeDatos “FASTFOOD”** 🌐
 __Fast Food And Breakfast__ es un popular local de comida rápida donde puedes encontrar distintas opciones en el menú, desde hamburguesas ypizzas hasta una deliciosas opciones para el desayuno y cafetería”. 🍔🍕🍩
-___
 
 ## 🎯Objetivo: 
 
 Fortalecer la toma de decisiones estratégicas para el local de comida rápida "Fast Food And Breakfast" a través del diseño, implementación y análisis de una base de datos que almacene y organice de manera eficiente la información relevante del negocio. 📊
-___
+
 
 ## 💻**Instalación de SQL Server para abrir los archivos del proyecto GitHub**  
 
@@ -13,7 +12,6 @@ ___
 
 #####[Link de Descarga y Pasos de Instalación](https://learn.microsoft.com/es-es/sql/database-engine/install-windows/install-sql-server?view=sql-server-ver16) 
 
-___
 
 ## 🗂️ Desarrollo del Proyecto
 ### Debe abrir los archivos en el siguiente orden, para poder visualizar las querys del desarrollo
@@ -40,7 +38,6 @@ ___
 
 👉 [DA_Lo_Cascio_Maria_Florencia_avance_Consultas_Avanzadas_PI.sql](https://github.com/MFlorenciaLoCascio/BDFastFood_SQL_ProyectoHenry/blob/main/DA_Lo_Cascio_Maria_Florencia_avance_Consultas_Avanzadas_PI.sql "DA_Lo_Cascio_Maria_Florencia_avance_Consultas_Avanzadas_PI.sql")
 
-___
 
 ## Diagrama Entidad-Relación (DER) 📃
 Representa las relaciones entre entidades de la base de datos. 
@@ -49,7 +46,6 @@ Representa las relaciones entre entidades de la base de datos.
 
 **Diagrama Entidad-Relación generado en Draw.io:** [DER_FastFood_Draw.io.jpg](https://github.com/MFlorenciaLoCascio/BDFastFood_SQL_ProyectoHenry/blob/main/DER_FastFood_Draw.io.jpg "DER_FastFood_Draw.io.jpg")
 
-___
 
 ## 📊 Insights:
 
@@ -65,13 +61,12 @@ ___
 - Implementar promociones por la mañana con desayunos y por la noche con hamburguesas, en la tienda física 
 - Implementar estrategias para captar clientes durante el tercer período del año
 
-__
 
 ## 📝 Informe: 
 Aquí puede encontrar información más a detalle sobre el proyecto:
 
 [Informe_FastFood_BD_Lo_Cascio_Maria_Florencia.pdf](https://github.com/MFlorenciaLoCascio/BDFastFood_SQL_ProyectoHenry/blob/main/Informe_FastFood_BD_Lo_Cascio_Maria_Florencia.pdf "Informe_FastFood_BD_Lo_Cascio_Maria_Florencia.pdf")
-__
+
 
 ## ⚙️ Herramientas utilizadas:
 
