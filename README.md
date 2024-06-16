@@ -1,5 +1,5 @@
 # 🌐 **Creación y Análisis de Base de Datos FASTFOOD** 
-__Fast Food And Breakfast__ es un popular local de comida rápida donde puedes encontrar distintas opciones en el menú, desde hamburguesas ypizzas hasta una deliciosas opciones para el desayuno y cafetería”. 🍔🍕🍩
+__Fast Food And Breakfast__ es un popular local de comida rápida donde puedes encontrar distintas opciones en el menú, desde hamburguesas y pizzas hasta una deliciosas opciones para el desayuno y cafetería. 🍔🍕🍩
 
 ## 🎯Objetivo: 
 
@@ -90,14 +90,8 @@ Aquí puede encontrar información más a detalle sobre el proyecto:
 
 ## ⚙️ Herramientas utilizadas:
 
-- **SQL Server:** Sistema de gestión de bases de datos relacional para almacenar, administrar y analizar datos de forma segura y eficiente.
-
-- **Lenguajes SQL:**
-DDL (Data Definition Language) para crear las tablas y relaciones en SQL Server
-DML (Data Manipulation Language) para insertar, consultar, actualizar y eliminar datos de la base de datos.
-
-- **Canva:** Herramienta de diseño gráfico online para crear el logo del proyecto de forma creativa y profesional.
-
-- **Draw.io:** Herramienta online para la creación de diagramas, utilizada para elaborar el diagrama entidad-relación (DER) del proyecto.
-
-- **Google Docs:** Plataforma online para la creación y edición colaborativa de documentos, utilizada para la elaboración del informe final del proyecto.
+- SQL Server
+- Lenguajes SQL: DDL (Data Definition Language) y DML (Data Manipulation Language) 
+- Canva
+- Draw.io
+- Google Docs
