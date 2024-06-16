@@ -1,4 +1,4 @@
-# 🌐 **Creación y Análisis de Base de Datos “FASTFOOD”** 
+# 🌐 **Creación y Análisis de Base de Datos FASTFOOD** 
 __Fast Food And Breakfast__ es un popular local de comida rápida donde puedes encontrar distintas opciones en el menú, desde hamburguesas ypizzas hasta una deliciosas opciones para el desayuno y cafetería”. 🍔🍕🍩
 
 ## 🎯Objetivo: 
@@ -36,14 +36,28 @@ Fortalecer la toma de decisiones estratégicas para el local de comida rápida "
 
 👉 [DA_Lo_Cascio_Maria_Florencia_avance_Consultas_Avanzadas_PI.sql](https://github.com/MFlorenciaLoCascio/BDFastFood_SQL_ProyectoHenry/blob/main/DA_Lo_Cascio_Maria_Florencia_avance_Consultas_Avanzadas_PI.sql "DA_Lo_Cascio_Maria_Florencia_avance_Consultas_Avanzadas_PI.sql")
 
+### CREAR BASE DE DATOS / TABLAS
+
+![Crear_BD_Tablas](https://github.com/MFlorenciaLoCascio/BDFastFood_SQL_ProyectoHenry/assets/139195222/6a5d132d-e86e-4fb4-b1bb-6766817d3a8b)
+
+### RELACIONES ENTRE TABLAS
+
+![Relaciones_entre_Tablas](https://github.com/MFlorenciaLoCascio/BDFastFood_SQL_ProyectoHenry/assets/139195222/3ffb4a22-103b-46c8-b081-f9418e48cdea)
+
+### INGRESO DE DATOS
+
+![Ingreso_de_datos](https://github.com/MFlorenciaLoCascio/BDFastFood_SQL_ProyectoHenry/assets/139195222/1b3dadd2-57f7-4236-80ea-745bf8122f20)
 
 ## Diagrama Entidad-Relación (DER) 📃
 Representa las relaciones entre entidades de la base de datos. 
 
-**Diagrama Entidad-Relación generado en SQL:**  [DER_FastFood_SQL.png](https://github.com/MFlorenciaLoCascio/BDFastFood_SQL_ProyectoHenry/blob/main/DER_FastFood_SQL.png "DER_FastFood_SQL.png")
+**Diagrama Entidad-Relación generado en SQL:** 
+
+![DER_FastFood_SQL](https://github.com/MFlorenciaLoCascio/BDFastFood_SQL_ProyectoHenry/assets/139195222/e0dd2773-e85b-42c6-a002-bb9111cffebb)
 
 **Diagrama Entidad-Relación generado en Draw.io:** [DER_FastFood_Draw.io.jpg](https://github.com/MFlorenciaLoCascio/BDFastFood_SQL_ProyectoHenry/blob/main/DER_FastFood_Draw.io.jpg "DER_FastFood_Draw.io.jpg")
 
+![DER_FastFood_Draw io](https://github.com/MFlorenciaLoCascio/BDFastFood_SQL_ProyectoHenry/assets/139195222/1cc40f5f-a179-4abe-b6c3-bbd8928b7601)
 
 ## 📊 Insights:
 
@@ -58,7 +72,6 @@ Representa las relaciones entre entidades de la base de datos.
 - Optimizar el tiempo de entrega para mejorar la eficiencia
 - Implementar promociones por la mañana con desayunos y por la noche con hamburguesas, en la tienda física 
 - Implementar estrategias para captar clientes durante el tercer período del año
-
 
 ## 📝 Informe: 
 Aquí puede encontrar información más a detalle sobre el proyecto:
