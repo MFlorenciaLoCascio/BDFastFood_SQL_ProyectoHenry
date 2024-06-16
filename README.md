@@ -12,7 +12,8 @@ Fortalecer la toma de decisiones estratégicas para el local de comida rápida "
 
 
 ## 🗂️ Desarrollo del Proyecto
-### Debe abrir los archivos en el siguiente orden, para poder visualizar las querys del desarrollo
+
+### Debe abrir los archivos en el siguiente orden, para poder visualizar las querys del desarrollo:
 
 #### 1. Crear Base de Datos, Tablas y Generar relaciones PK-FK / _Lenguaje DDL_
 
@@ -48,6 +49,14 @@ Fortalecer la toma de decisiones estratégicas para el local de comida rápida "
 
 ![Ingreso_de_datos](https://github.com/MFlorenciaLoCascio/BDFastFood_SQL_ProyectoHenry/assets/139195222/1b3dadd2-57f7-4236-80ea-745bf8122f20)
 
+### CONSULTAS CON FUNCIONES DE AGREGACIÓN Y CLÁUSULAS
+
+![Consultas_con_Condicionales](https://github.com/MFlorenciaLoCascio/BDFastFood_SQL_ProyectoHenry/assets/139195222/f6e9953d-c151-4f33-96e6-1fbacce231ad)
+
+### CONSULTAS CON JOINS
+
+![Consultas_JOINS](https://github.com/MFlorenciaLoCascio/BDFastFood_SQL_ProyectoHenry/assets/139195222/accb983d-4a20-4b11-be3e-65a0431bef28)
+
 ## Diagrama Entidad-Relación (DER) 📃
 Representa las relaciones entre entidades de la base de datos. 
 
@@ -55,7 +64,7 @@ Representa las relaciones entre entidades de la base de datos.
 
 ![DER_FastFood_SQL](https://github.com/MFlorenciaLoCascio/BDFastFood_SQL_ProyectoHenry/assets/139195222/e0dd2773-e85b-42c6-a002-bb9111cffebb)
 
-**Diagrama Entidad-Relación generado en Draw.io:** [DER_FastFood_Draw.io.jpg](https://github.com/MFlorenciaLoCascio/BDFastFood_SQL_ProyectoHenry/blob/main/DER_FastFood_Draw.io.jpg "DER_FastFood_Draw.io.jpg")
+**Diagrama Entidad-Relación generado en Draw.io:** 
 
 ![DER_FastFood_Draw io](https://github.com/MFlorenciaLoCascio/BDFastFood_SQL_ProyectoHenry/assets/139195222/1cc40f5f-a179-4abe-b6c3-bbd8928b7601)
 
